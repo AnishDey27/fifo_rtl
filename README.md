@@ -118,6 +118,5 @@ fifo_rtl #(
 
 **Anish Dey**
 
-A passionate VLSI enthusiast and undergraduate student pursuing a B.E. in Electronics & Tele-communication Engineering at Jadavpur University, Kolkata. My interests lie in both analog and digital circuit design, embedded systems, and hardware architecture.
-
+A passionate VLSI enthusiast.
 [Connect with me on LinkedIn!](https://www.linkedin.com/in/deyanish/)
